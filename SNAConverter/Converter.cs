@@ -2,7 +2,8 @@
 
 namespace SNAConverter
 {
-    public class Class1
+    public class Converter
     {
+
     }
 }
