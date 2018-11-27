@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNAConverter", "SNAConverter\SNAConverter.csproj", "{FD2B209B-F796-4B73-A658-30760ED218B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SNAConverter", "SNAConverter\SNAConverter.csproj", "{FD2B209B-F796-4B73-A658-30760ED218B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PDFReader", "PDFReader\PDFReader.csproj", "{A83F4AC0-25BF-415B-BBC0-20514E30B27B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFReaderLibrary", "PDFReaderLibrary\PDFReaderLibrary.csproj", "{BA8D1014-C33B-42F3-8A13-6228637D2DEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{FD2B209B-F796-4B73-A658-30760ED218B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD2B209B-F796-4B73-A658-30760ED218B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD2B209B-F796-4B73-A658-30760ED218B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A83F4AC0-25BF-415B-BBC0-20514E30B27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83F4AC0-25BF-415B-BBC0-20514E30B27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83F4AC0-25BF-415B-BBC0-20514E30B27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83F4AC0-25BF-415B-BBC0-20514E30B27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8D1014-C33B-42F3-8A13-6228637D2DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8D1014-C33B-42F3-8A13-6228637D2DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8D1014-C33B-42F3-8A13-6228637D2DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8D1014-C33B-42F3-8A13-6228637D2DEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
